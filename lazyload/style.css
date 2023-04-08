@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+  padding: 15px;
+  background-color: #f0f0f0;
+  border-radius: 10px;
+  margin: 60px auto;
+}
+
+body {
+  background-color: #3c3c3c;
+  display: flex;
+  justify-content: center;
+}
+
+div {
+  width: 50%;
+}
